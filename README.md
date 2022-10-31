@@ -7,5 +7,11 @@ Personal Project for Public Housing Singapore Modelling
 
 ## ANALYSIS
 1. Generate insights
-  - aaa
-  - bb
+  - Growth
+  - Market condition in 2019, 2020
+  - etc.
+2. Classification issue
+  - Difine Very Affordable, Affordable and not affordable flats with price metrics
+  - Affordable flats with floor size more than 100 sqm
+3. Regression Issue
+  - the reasonable price for certain year in certain flats condition
